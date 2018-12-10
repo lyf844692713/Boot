@@ -4,7 +4,6 @@ mkk
 
 vvs
 
-m m
 kk
 
 
